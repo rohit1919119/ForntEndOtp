@@ -1,0 +1,119 @@
+.otp {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    width: 100%;
+    align-items: center;
+    height: 35%;
+    box-sizing: border-box;
+  }
+  .verifyDiv {
+    padding: 18px;
+    position: absolute;
+    height: 100%;
+    box-sizing: border-box;
+  }
+  
+  .heading {
+    position: relative;
+    padding: 0 34px;
+  }
+  
+  p {
+    color: white;
+    margin-bottom: 0px;
+  }
+  .inputStyle {
+    width: 64% !important;
+    position: relative;
+    height: 82%;
+    height: 45px;
+    border-radius: 7px;
+    border: 0px;
+    margin-left: 8px;
+    margin-right: 8px;
+    background: #dddddd;
+    font-size: 20px;
+  }
+  .p3 {
+    font-size: 14px;
+    font-weight: 700;
+  }
+  .resend {
+    text-decoration: underline;
+    font-size: 14px;
+    margin-bottom: 30px;
+    font-weight: 700;
+  }
+  .otpElements {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 0 18px;
+    justify-content: center;
+    height: 40%;
+  }
+  
+  .p1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    margin-top: 25px;
+    font-size: 27px;
+  }
+  
+  .p2 {
+    font-family: "Poppins", sans-serif;
+    font-size: 79%;
+  }
+  button {
+    color: #00432c;
+    font-size: 20px;
+    font-weight: 600;
+    width: 190px;
+    height: 53px;
+    border: 0px;
+    background: #dddddd;
+    box-shadow: 0px -4px 36px 9px rgb(0 0 0 / 30%);
+    border-radius: 32px;
+    cursor: pointer;
+  }
+  
+  /* vector */
+  
+  /* .vector1{
+    
+    position: absolute;
+    left: 6%;
+    bottom: 4%;
+    right: 66.26%;
+    /* background: #00432C; */
+  /* width: 80%;
+    height: 14%;
+    background-image: url(Vector1.png);
+  
+  
+  }  */
+  
+  .vector2 {
+    position: absolute;
+    left: 56.25%;
+    right: 25.91%;
+    top: 80.4%;
+    bottom: 12.8%;
+    background: #00432c;
+    border-radius: 50%;
+    border: 9px solid #ffffff;
+  }
+  .v2 {
+    position: absolute;
+  }
+  .vectorContainer {
+    position: relative;
+    width: 22%;
+    height: 100%;
+    right: -8%;
+    bottom: 0%;
+  }
+  
